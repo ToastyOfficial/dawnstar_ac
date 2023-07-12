@@ -1,4 +1,4 @@
-This agreement (hereinafter referred to as the "Agreement") is entered into between Dawnstar Entertainment LLC. (hereinafter referred to as "Dawnstar") and the Customer (hereinafter referred to as the "Customer") for the purchase and use of Dawnstar Anti-Cheat (hereinafter referred to as the "Product") for use with FiveM.
+This `agreement` (hereinafter referred to as the "Agreement") is entered into between `Dawnstar Entertainment LLC.` (hereinafter referred to as "Dawnstar") and the Customer (hereinafter referred to as the "Customer") for the `purchase` and use of `Dawnstar Anti-Cheat` (hereinafter referred to as the "Product") for use with `FiveM.`
 
 ## License Grant
 Dawnstar grants the Customer a non-exclusive, non-transferable license to use the Product solely for the purpose of preventing cheating and unauthorized modifications in FiveM. The license is granted for a single user and is not transferrable to any other individual or entity.
