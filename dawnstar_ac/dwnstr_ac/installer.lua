@@ -4,7 +4,7 @@ RegisterCommand("dwnstrAC", function(source, ai, aj)
 		print("^1**^0Dawnstar Anti-Cheat help> Commands^1**^0")
 		print("")
 		if ai[1] == "install" then
-			ad = IronS.FileName
+			ad = DawnS.FileName
 			if ai[2] == "fx" then
 				print("^1**^2INSTALLING INTO ^0fxmanifest.lua ^2ONLY!**^0")
 				ae = "fxmanifest"
@@ -55,7 +55,7 @@ RegisterCommand("dwnstrAC", function(source, ai, aj)
 					0
 				}
 			end;
-				ad = IronS.FileName
+				ad = DawnS.FileName
 				if ai[2] == "fx" then
 					print("^1**^2UNINSTALLING FROM fxmanifest.lua ONLY!**^0")
 					ae = "fxmanifest"
