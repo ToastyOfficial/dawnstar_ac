@@ -5,6 +5,12 @@ is now **OPEN SOURCE !!**<br><br>
 > **Q :** What does this mean?<br>
 **A :** Add a high tier anticheat to your server for FREE!<br>
 
+> **Q :** Can I add this to my server as is?<br>
+**A :** I do not recommend adding to a live branch. This is a development branch and may not work as indended fully yet.<br>
+
+> **Q :** Has this been tested before?<br>
+**A :** Early stages of testing passed. Newest stages are untested.<br>
+
 > **Q :** Can't this be patched in the future?<br>
 **A :** This resource will forever be open to **PRs**<br>
 
