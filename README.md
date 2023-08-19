@@ -8,7 +8,7 @@ is now **OPEN SOURCE !!**
 - iremovedauth<3
   
 ### Dependencies
-- async-mysql
+- mysql-async
 - screenshot-basic<br><br>
 
 > **Q :** What does this mean?<br>
